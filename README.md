@@ -43,3 +43,5 @@ We welcome contributions from the community. To contribute, follow these steps:
 This project is licensed under the MIT License.
 
 ![SelfRide Logo](scr.png)
+
+made by bunnysayzz
